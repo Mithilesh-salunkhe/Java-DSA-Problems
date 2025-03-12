@@ -19,6 +19,6 @@ public class Binary_Search {
     public static void main(String[] args) {
         int arr[] = {-4,-1,3,7,10,11};
 
-        System.out.println(binarySearch(arr,7));
+        System.out.println(binarySearch(arr,7)); // Time complexity -- O(log n)
     }
 }
