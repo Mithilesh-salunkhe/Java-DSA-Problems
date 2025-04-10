@@ -25,6 +25,6 @@ public class SearchInSortedMatrix {
 
         int key = 33;
 
-        StaircaseSearch(matrix, key);
+        StaircaseSearch(matrix, key); // T.C --> O( m + n )
     }
 }
