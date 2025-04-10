@@ -18,7 +18,7 @@ public class digonalSum {
         return sum;
     }
 
-    public static int digonalSum2(int matrix[][]){// T.C --> O(n^2)
+    public static int digonalSum2(int matrix[][]){// T.C --> O(n)
         int sum = 0 ;
 
         for(int i = 0 ; i < matrix.length ; i++){
